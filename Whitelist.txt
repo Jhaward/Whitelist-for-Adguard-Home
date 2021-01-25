@@ -3,8 +3,10 @@
 # Whisk
 @@||grpc-x.whisk.com
 @@||events.whisk.com
+
 # Canvas
 @@||canvas.bham.ac.uk
+
 # Facebook
 @@||creative.ak.fbcdn.net^$important
 @@||external-lhr0-1.xx.fbcdn.net^$important
@@ -21,12 +23,14 @@
 @@||fbcdn-creative-a.akamaihd.net^$important
 @@||scontent-lhr3-1.xx.fbcdn.net^$important
 @@||scontent-lhr8-1.xx.fbcdn.net
+
 # Messenger
 @@||api.facebook.com^$important
 @@||edge-mqtt.facebook.com^$important
 @@||mqtt.c10r.facebook.com^$important
 @@||portal.fb.com^$important
 @@||star.c10r.facebook.com^$important
+
 # Plex
 @@||app.plex.tv^$important
 @@||cpms.spop10.ams.plex.bz^$important
@@ -49,6 +53,7 @@
 @@||status.plex.tv^$important
 @@||tvdb2.plex.tv^$important
 @@||tvthemes.plexapp.com^$important
+
 # Youtube
 @@||s.youtube.com^$important
 @@||s2.youtube.com^$important
@@ -57,9 +62,12 @@
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
 @@||s.ytimg.com^$important
+
 # Github
 @@||github.com^$important
 @@||github.io^$important
 @@||raw.githubusercontent.com^$important
+
 # Feedly
 @@||feedly.com
+
