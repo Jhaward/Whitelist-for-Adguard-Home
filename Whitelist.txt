@@ -20,6 +20,7 @@
 @@||external-lhr9-1.xx.fbcdn.net^$important
 @@||fbcdn-creative-a.akamaihd.net^$important
 @@||scontent-lhr3-1.xx.fbcdn.net^$important
+@@||scontent-lhr8-1.xx.fbcdn.net
 # Messenger
 @@||api.facebook.com^$important
 @@||edge-mqtt.facebook.com^$important
