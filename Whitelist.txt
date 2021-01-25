@@ -24,7 +24,6 @@
 # Messenger
 @@||api.facebook.com^$important
 @@||edge-mqtt.facebook.com^$important
-@@||graph.facebook.com^$important
 @@||mqtt.c10r.facebook.com^$important
 @@||portal.fb.com^$important
 @@||star.c10r.facebook.com^$important
