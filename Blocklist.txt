@@ -2,3 +2,10 @@
 
 # Facebook
 @@||graph.facebook.com
+@@||b-graph.facebook.com
+
+# Bing
+@@||www.bing.com
+
+# Microsoft
+@@||vortex.data.microsoft.com
