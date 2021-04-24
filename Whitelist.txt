@@ -71,3 +71,5 @@
 # Feedly
 @@||feedly.com
 
+# Yeelight
+@@||app.chat.global.xiaomi.net
