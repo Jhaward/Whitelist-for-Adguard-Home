@@ -3,6 +3,7 @@
 # Facebook
 @@||graph.facebook.com
 @@||b-graph.facebook.com
+@@||portal.fb.com
 
 # Bing
 @@||www.bing.com
